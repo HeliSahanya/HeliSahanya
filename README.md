@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Data Science undergraduate</h3>
 
 
-## 🙋 About Me
+## 🙋‍♀️ About Me
 
 - 🌱 I’m currently learning **Machine Learning.**
 
